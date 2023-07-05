@@ -1,8 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs
-/My.GameStore/.vs/My.GameStore
-/My.GameStore/My.GameStore/obj
-/My.GameStore/My.GameStore/bin/Debug/net6.0
